@@ -4,9 +4,7 @@
 
 It is a quiz app that I developed for my college. The admin can post quizzes on certain topics and the users can take the quiz and analyze their performance over time.
 
-### Where can I see this?
 
-You can visit this website by clicking [here](https://quizzy-iiitk.herokuapp.com/).
 
 ### How to run this locally?
 
